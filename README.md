@@ -49,7 +49,7 @@ Easy Ensemble Classifier
 
 Summary
 
-Of the models tested the Easy Ensemble Classifier was the most accurate at 93% and the only model over 80%. This model also had the highest recall scores for both high-risk and low-risk loans. 
+Of the models tested the Easy Ensemble Classifier was the most accurate at 93% and the only model over 80%. This model also had the highest recall scores for both high-risk and low-risk loans. Thus Easy Ensemble Classifier would be the model to choose in this situation.
 
 
 
